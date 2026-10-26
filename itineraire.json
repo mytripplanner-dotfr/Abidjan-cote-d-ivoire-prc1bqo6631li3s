@@ -1,0 +1,153 @@
+{
+  "pays": "Côte d'Ivoire",
+  "drapeau": "🇨🇮",
+  "symbole": "🌴",
+  "titre": "Douceur lagunaire et quiétude à Abidjan",
+  "budget_total": "239 €/personne",
+  "duree": "1 jour",
+  "temps_vol": "1h50 (depuis Conakry international airport, guinee)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Escale reposante entre nature et lagune",
+      "legende": "Dès votre atterrissage à Abidjan, laissez-vous envelopper par la tiédeur tropicale et la douceur de vivre lagunaire.\nRejoignez les allées majestueuses du jardin botanique pour une pause verdoyante hors du tumulte urbain.\nPrenez le temps d'admirer les arbres centenaires et la flore préservée lors d'une promenade sereine.\nTerminez cette parenthèse ivoirienne en contemplant les lueurs dorées du soleil se refléter paisiblement sur la lagune Ébrié.",
+      "lieu": "Abidjan",
+      "activites": [
+        "<strong>🛬 Arrivée & Accueil lagunaire</strong> : Atterrissage en douceur à Port-Bouët puis transfert reposant le long des rives de la lagune Ébrié.",
+        "<strong>🌿 Balade sensorielle au Jardin Botanique</strong> : Flânez sans vous presser sous les arbres centenaires de cette ancienne pépinière coloniale d'une grande sérénité.",
+        "<strong>🌅 Crépuscule paisible au bord de l'eau</strong> : Savourez une boisson fraîche et des douceurs locales face au coucher de soleil sur les eaux calmes de Cocody."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin Botanique de Bingerville, Bingerville",
+          "categorie": "Parc et Jardin",
+          "coords": {
+            "lat": 5.3562,
+            "lng": -3.8967
+          }
+        },
+        {
+          "nom_recherche": "Baie de Cocody, Abidjan",
+          "categorie": "Promenade",
+          "coords": {
+            "lat": 5.3325,
+            "lng": -4.0152
+          }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚕",
+          "titre": "Déplacements doux",
+          "texte": "Privilégiez les applications de VTC comme Yango pour des trajets directs, climatisés et sans stress tarifaire."
+        },
+        {
+          "symbole": "🌿",
+          "titre": "Moment zen",
+          "texte": "Le Jardin de Bingerville est un cocon de fraîcheur idéal pour se reposer à l'ombre des grands bambous."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "114 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "25 €/pers (VTC et navettes)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "35 €/pers",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "55 €/pers (hôtel 3* confort)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "10 €/pers (entrées et guides)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Décembre à mars (saison sèche ensoleillée)",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "Juillet et août (saison des pluies ralentie et températures douces)",
+      "symbole": "⛅"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Le climat est tropical humide : prévoyez des vêtements légers en coton et des lunettes de soleil.",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "La monnaie locale est le Franc CFA (XOF). Les paiements mobiles et les espèces sont privilégiés.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le carnet international de vaccination avec le vaccin contre la fièvre jaune est obligatoire à l'arrivée.",
+      "symbole": "💉"
+    },
+    {
+      "titre": "Des cartes SIM locales (Orange, MTN ou Moov) s'achètent facilement à la sortie de l'aéroport.",
+      "symbole": "📶"
+    }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🐘",
+      "titre": "La Cathédrale insolite",
+      "texte": "La cathédrale Saint-Paul du Plateau arbore une silhouette futuriste audacieuse imaginée par l'architecte Aldo Spirito, rappelant un éléphant prêt à s'élancer."
+    },
+    {
+      "symbole": "🗣️",
+      "titre": "L'art du Nouchi",
+      "texte": "À Abidjan, la bonne humeur s'exprime en Nouchi, un argot urbain unique né dans les rues abidjanaises devenu le symbole de l'art de vivre ivoirien."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🐟",
+      "titre": "Attiéké et poisson braisé",
+      "texte": "Semoule de manioc fermentée à la texture légère et aérienne, servie avec une daurade marinée grillée et des dés de tomates fraîches."
+    },
+    {
+      "symbole": "🍌",
+      "titre": "Alloco doré",
+      "texte": "Morceaux de bananes plantains frites jusqu'à caramélisation, accompagnés d'une sauce tomate-oignons parfumée."
+    },
+    {
+      "symbole": "🍗",
+      "titre": "Kedjenou de poulet",
+      "texte": "Ragoût mijoté à l'étouffée dans un canari de terre cuite sans ajout d'eau, concentrant les arômes de légumes et d'herbes douces."
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CKY-ABJ/2027-03-09/2027-03-10",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles",
+      "titre": "Côte d'Ivoire Tourisme",
+      "url": "https://cotedivoiretourisme.ci",
+      "symbole": "📘"
+    }
+  ]
+}
